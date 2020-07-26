@@ -1,2 +1,1 @@
-# Mygan
- 笔记
+# MYGAN笔记
