@@ -13,5 +13,14 @@
 
 ![图片](https://github.com/Newmelon/picture/blob/master/starganv2.png "starganv2")
 
-## 4 
+## 4 MSGGAN
 
+![图片](https://github.com/Newmelon/picture/blob/master/msggan.png "msggan")
+
+## 5 SAGAN
+
+![图片](https://github.com/Newmelon/picture/blob/master/SAGAN.png "sagan")
+
+## 6 EXPRGAN
+
+![图片](https://github.com/Newmelon/picture/blob/master/exprgan.png "exprgan")
